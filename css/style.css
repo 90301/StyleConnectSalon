@@ -13,7 +13,7 @@
 
 
 .logo-glow {
-  filter: drop-shadow(0px 0px 6px #000);
+  filter: drop-shadow(0px 0px 8px #000);
 }
 
 body {
@@ -22,17 +22,17 @@ body {
 	font-weight:300;
 	line-height:1.6em;
 	color:#fff;
-	background-color:#fff;
+	background-color:#111;
 	overflow-x:hidden;
 }
 
 hi,h2,h3,h4,h5,h6 {
-	color:#333;
+	color:#FFFFFF;
 	line-height:1.1em;
 }
 
 p {
-	color:#333;
+	color:#FFFFFF;
 	font-size:13px;
 }
 a {
@@ -537,7 +537,7 @@ a:hover {
 
 
 .about {
-	background:#eee;
+	background:#111;
 	padding:50px;
 }
 
@@ -552,7 +552,7 @@ a:hover {
 
 .our-team {
 	padding:50px;
-	background:#ddd;
+	background:#222;
 }
 
 .our-team h3 {
