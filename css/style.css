@@ -1153,8 +1153,16 @@ ul.sidebar-gallery {
 /* --- contact --- */
 #contact-page{
   padding-top: 0;
-  background:#fff;
+  background:#000;
   margin-bottom:50px;
+}
+.asterisk{
+    color:#F00;
+}
+
+.email{
+    color:#DDF;
+    background-color: #222222;
 }
 
 #contact-page .contact-form
