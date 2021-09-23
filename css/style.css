@@ -709,6 +709,10 @@ ul.social-network li a {
 
 /* --- portfolio --- */
 
+.crt-post{
+    background-color: #222222 !important;
+}
+
 #portfolio .center p {
 	margin-top:50px;
 	margin-bottom:50px;
