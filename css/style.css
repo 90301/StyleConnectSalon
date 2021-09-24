@@ -688,6 +688,10 @@ ul.social-network li a {
 	font-size:13px;
 }
 
+.servicesTable th td{
+    padding-right: 20px;
+}
+
 .media-body p {
 	margin-bottom:30px;
 }
